@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cmicecreams
-- 👀 I’m interested in website development and apps development mostly android applications
-- 🌱 I’m currently learning Android development with kotlin
-- 💞️ I’m looking to collaborate on a projects to develop Android applications and websites and other projects
+- 👋 Hi, I’m @ThrustSoftwares
+- 👀 I’m interested in website development and developing web based systems 
+- 🌱 I’m currently learning how to develop with frameworks specifically Laravel framework 
+- 💞️ I’m looking to collaborate on projects concerned with developing web based systems using Laravel with php
 - 📫 connect with me via email: mugambe123ivan@gmail.com
 - whatsapp: 0761801534
 - 😄 Pronouns: lets develop and change the world of IT
